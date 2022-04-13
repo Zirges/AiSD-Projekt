@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649368356 source:s:\infomatyka\sem ii\algorytmy i struktury danych\lab\onp_cz1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+
+1649112038 s:\infomatyka\sem ii\algorytmy i struktury danych\lab\onp_cz1\stack.h
+	<stdio.h>
+	<stdlib.h>
+
